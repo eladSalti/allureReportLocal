@@ -28,4 +28,6 @@ Usage: allure [options] [command] [command options]
 6. In your root project open CMD and type the following command - $ allure serve "./reports" than allure should be open automatically.
 
 
+![image](https://github.com/eladSalti/allureReportLocal/assets/16322632/a712e049-8966-437b-bde4-316b58aa7f11)
+
 
